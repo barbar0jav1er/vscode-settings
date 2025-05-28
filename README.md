@@ -86,6 +86,7 @@ svelte.svelte-vscode
 Prisma.prisma
 otovo-oss.htmx-tags
 bierner.markdown-mermaid
+GitHub.copilot
 
 ```
 
