@@ -87,7 +87,8 @@ Prisma.prisma
 otovo-oss.htmx-tags
 bierner.markdown-mermaid
 GitHub.copilot
-
+mikestead.dotenv
+qwtel.sqlite-viewer
 ```
 
 ```bash 
